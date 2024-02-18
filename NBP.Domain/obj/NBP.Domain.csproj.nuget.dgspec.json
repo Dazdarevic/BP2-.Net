@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Belkisa\\Desktop\\OOP2\\Belkisa, zadaci\\NBP\\NBP.Domain\\NBP.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Belkisa\\Desktop\\OOP2\\Belkisa, zadaci\\NBP\\NBP.Domain\\NBP.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Belkisa\\Desktop\\OOP2\\Belkisa, zadaci\\NBP\\NBP.Domain\\NBP.Domain.csproj",
+        "projectName": "NBP.Domain",
+        "projectPath": "C:\\Users\\Belkisa\\Desktop\\OOP2\\Belkisa, zadaci\\NBP\\NBP.Domain\\NBP.Domain.csproj",
+        "packagesPath": "C:\\Users\\Belkisa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Belkisa\\Desktop\\OOP2\\Belkisa, zadaci\\NBP\\NBP.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Belkisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.20.0, )"
+            },
+            "Sieve": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

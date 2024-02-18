@@ -1,0 +1,12 @@
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\bin\Release\net6.0\NBP.Domain.deps.json
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\bin\Release\net6.0\NBP.Domain.dll
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\bin\Release\net6.0\NBP.Domain.pdb
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\obj\Release\net6.0\NBP.Domain.csproj.AssemblyReference.cache
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\obj\Release\net6.0\NBP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\obj\Release\net6.0\NBP.Domain.AssemblyInfoInputs.cache
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\obj\Release\net6.0\NBP.Domain.AssemblyInfo.cs
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\obj\Release\net6.0\NBP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\obj\Release\net6.0\NBP.Domain.dll
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\obj\Release\net6.0\refint\NBP.Domain.dll
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\obj\Release\net6.0\NBP.Domain.pdb
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\NBP.Domain\obj\Release\net6.0\ref\NBP.Domain.dll

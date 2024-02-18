@@ -1,0 +1,15 @@
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\obj\Debug\net6.0\NBP.Application.csproj.AssemblyReference.cache
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\obj\Debug\net6.0\NBP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\obj\Debug\net6.0\NBP.Application.AssemblyInfoInputs.cache
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\obj\Debug\net6.0\NBP.Application.AssemblyInfo.cs
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\obj\Debug\net6.0\NBP.Application.csproj.CoreCompileInputs.cache
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\bin\Debug\net6.0\NBP.Application.deps.json
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\bin\Debug\net6.0\NBP.Application.dll
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\bin\Debug\net6.0\NBP.Application.pdb
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\bin\Debug\net6.0\NBP.Domain.dll
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\bin\Debug\net6.0\NBP.Domain.pdb
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\obj\Debug\net6.0\NBP.Application.csproj.CopyComplete
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\obj\Debug\net6.0\NBP.Application.dll
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\obj\Debug\net6.0\refint\NBP.Application.dll
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\obj\Debug\net6.0\NBP.Application.pdb
+C:\Users\Belkisa\Desktop\OOP2\Belkisa, zadaci\NBP\Application\obj\Debug\net6.0\ref\NBP.Application.dll
